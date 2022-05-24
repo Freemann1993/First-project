@@ -1,2 +1,1 @@
 Hi, my name is Andreas Freimann and I’m from Switzerland. During my studies at the University of St. Gallen I had some theoretical touchpoints with Data Science and Data Analytics in various business-oriented courses. In the last 9 months I also got in touch with low code applications like Power Automate from Microsoft and UiPath.
-I expect from this course, that I will be able to write/build applications/codes and train them by myself. My ultimate goal is to write machine learning applications for companies in order to help them with their digital transformation.
