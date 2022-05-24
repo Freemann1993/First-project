@@ -1,0 +1,1 @@
+﻿Hi, my name is Andreas Freimann and I’m from Switzerland. During my studies at the University of St. Gallen I had some theoretical touchpoints with Data Science and Data Analytics in various business-oriented courses. In the last 9 months I also got in touch with low code applications like Power Automate from Microsoft and UiPath.
